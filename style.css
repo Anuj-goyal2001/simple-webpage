@@ -1,0 +1,379 @@
+.outer
+{
+    height: 850px;
+    width: 750px;
+    border: 2px solid black;
+    margin: 0% auto;
+    position: relative;
+    ;
+}
+
+.fronted
+{
+    height: 240px;
+    width: 747px;
+    border: 2px solid black;
+    
+
+}
+
+#name
+{
+    position: absolute;
+    left: 60px;
+
+}
+
+img
+{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left:35px ;
+    top: 18px;
+}
+
+ul
+{
+    display: flex;
+    position: absolute;
+    right: 30px;
+    list-style: none;
+    font-weight: bold;
+    
+    
+    
+}
+
+li
+{
+    margin: 5px;
+}
+
+li:hover
+{
+    background-color: rgb(4, 117, 154);
+    cursor: wait;
+}
+
+h1
+{
+    position: relative;
+    top: 60px;
+    left: 250px;
+    font-family: cursive;
+    
+}
+
+#para
+{
+    position: absolute;
+    top: 120px;
+    left: 260px;
+    color: lightslategray;
+}
+
+.education
+{
+    height: 310px;
+    width: 245px;
+    border: 2px solid black;
+    position: absolute;
+    right :0px;
+}
+
+h2
+{
+    font-size: medium;
+    position: absolute;
+    left: 20px;
+    top: 0px;
+    font-family: "Patrick Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: bold;
+  font-size: large;
+}
+
+#graduation
+{
+    font-size: 15px;
+    position: absolute;
+    top: 28px;
+    left: 10px;
+    
+}
+
+#course
+{
+    position: absolute;
+    top: 90px;
+    left: 10px;
+    font-size: 15px;
+}
+
+#object
+{
+    font-size: 15px;
+    position: absolute;
+    top: 120px;
+    left: 10px;
+
+}
+
+.work
+{
+    height: 150px;
+    width: 280px;
+    border: 2px solid black;
+    position: absolute;
+    right: 248px;
+    
+}
+
+h3
+{
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 22px;
+}
+
+#roadmap
+{
+    position: absolute;
+    top: 50px;
+    left: 25px;
+     font-family: "Patrick Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+#solved
+{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+a
+{
+    color: rgb(0, 183, 255);
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    font-size: 15px;
+}
+
+.opensource
+{
+    height: 158px;
+    width: 280px;
+    border: 2px solid black;
+    position: absolute;
+    top: 396px;
+    right: 248px;
+}
+
+h4
+{
+    position: absolute;
+    left: 22px;
+      font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#con
+{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}
+
+.project
+{
+    height: 100px;
+    width: 217px;
+    border: 2px solid black;
+}
+
+h5
+{
+    font-size: 18px;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 40px;
+    top: 230px;
+    
+}
+
+#portfolio
+{
+    position: absolute;
+    top: 290px;
+    left: 25px;
+}
+
+.calculator
+{
+    height: 30px;
+    width: 217px;
+    border: 2px solid black;
+}
+
+#cal
+{
+    position: absolute;
+    left: 33px;
+    top: 337px;
+}
+
+.quiz
+{
+    height: 30px;
+    width: 217px;
+    border: 2px solid black;
+
+}
+
+#quizapp
+{
+    position: absolute;
+    left: 33px;
+    top: 370px;
+}
+
+.timer
+{
+    height: 30px;
+    width: 217px;
+    border: 2px solid black;
+}
+
+#cowndown-timer
+{
+    position: absolute;
+    left: 33px;
+    top: 405px;
+}
+
+.upcoming
+{
+    height: 105px;
+    width: 217px;
+    border: 2px solid black;
+}
+
+#upcoming-page
+{
+    position: absolute;
+    left: 33px;
+    top: 450px;
+    
+}
+
+#review
+{
+    font-family: "Patrick Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+  left: 33px;
+  font-size: 20px;
+}
+
+.john
+{
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 30px;
+    position: absolute;
+    bottom: 90px;
+    left: 30px;
+}
+
+#john-doe
+{
+    position: absolute;
+    left: 20px;
+    bottom: 60px;
+}
+
+#jane
+{
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    color: lightslategray;
+}
+
+.john2
+{
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 30px;
+    position: absolute;
+    left: 260px;
+    bottom: 90px;
+}
+
+#john-doe2
+{
+    position: absolute;
+    left: 15px;
+    bottom: 60px;
+}
+
+#jane2
+{
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    color: lightslategray;
+
+}
+
+.john3
+{
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 30px;
+    position: absolute;
+    left: 500px;
+    bottom: 90px;
+}
+
+#john-doe3
+{
+    position: absolute;
+    left: 15px;
+    bottom: 60px;
+}
+
+#jane3
+{
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    color: lightslategray;
+
+}
+
+#reserved
+{
+    position: absolute;
+    bottom: 10px;
+    left: 280px;
+    font-family: "Patrick Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
